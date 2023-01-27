@@ -1,0 +1,12 @@
+.searchBlock {
+    display: flex;
+    justify-content: flex-end;
+    max-width: 1920px;
+    background: url(../../../public/img/large-box.png) no-repeat, url(../../../public/img/key.png) no-repeat;
+    background-position: bottom left, bottom 56px right;
+    .form {
+        padding-right: 290px;
+        margin-top: -8px;
+    }
+
+}

@@ -1,0 +1,13 @@
+.character {
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 504px;
+    .charName {
+        font-weight: 500;
+    }
+}

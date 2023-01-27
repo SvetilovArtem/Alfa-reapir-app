@@ -1,0 +1,40 @@
+.ofers {
+    position: relative;
+    z-index: 10;
+    max-width: 1580px;
+    margin: 0 auto;
+    .ofersTitle {
+        font-family: 'Montserrat';
+        font-weight: 900;
+        font-size: 32px;
+        line-height: 39px;
+        color: #363636;
+        margin-bottom: 77px;
+    }
+    .arrowLeft, .arrowRight {
+        position: absolute;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #319F1C;
+        border: 5px solid #FFFFFF;
+        box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.25);
+        border-radius: 50%;
+        width: 73px;
+        height: 73px;
+        cursor: pointer;
+    }
+    .arrowLeft {
+        top: 52%;
+        left: -101px;
+    }
+    .arrowRight {
+        top: 52%;
+        right: -101px;
+    }
+    .cards {
+        display: flex;
+        column-gap: 30px;
+        
+    }
+}

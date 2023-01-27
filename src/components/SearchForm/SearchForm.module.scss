@@ -1,0 +1,60 @@
+.searchForm {
+    padding-top: 178px;
+    padding-bottom: 114px;
+    .title {
+        font-family: 'Montserrat';
+        font-weight: 900;
+        font-size: 32px;
+        line-height: 52px;
+        color: #363636;
+        margin-bottom: 20px;
+    }
+    .text {
+        font-family: 'Raleway';
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 21px;
+        color: #000000;
+        margin-bottom: 47px;
+    }
+}
+
+.form {
+    width: 507px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    .input, .textarea {
+        border: 1px solid #319F1C;
+        border-radius: 3px;
+        font-family: 'Raleway';
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        color: #595959;
+        outline: none;
+        padding: 12.5px 13px 12.5px 24px;
+    }
+    .input {
+        max-width: 469px;
+    }
+    .button {
+        display: inline-block;
+        max-width: 238px;
+        font-family: 'Raleway';
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 19px;
+        color: #FFFFFF;
+        background: #319F1C;
+        box-shadow: 0px 4px 8px #64BC45;
+        border-radius: 3px;
+        border: none;
+        padding: 13px 77px 13px 78px;
+        cursor: pointer;
+    }
+    .textarea {
+        height: 73px;
+        margin-bottom: 12px;
+    }
+}
