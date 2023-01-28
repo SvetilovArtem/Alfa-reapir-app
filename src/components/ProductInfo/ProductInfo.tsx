@@ -1,6 +1,7 @@
 import React from 'react'
 import IconCreator from '../../icons/IconCreator'
 import Character from '../Character/Character'
+import Functions from '../Functions/Functions'
 import HelpfulForm from '../HelpfulForm/HelpfulForm'
 
 import styles from './ProductInfo.module.scss'
@@ -60,6 +61,10 @@ const ProductInfo = () => {
         </div>
         <img src="img/water.png" alt="" className={styles.waterImg} />
         <img src="img/piper.png" alt="" className={styles.piperImg} />
+        <div className={styles.functions}>
+            <Functions />
+        </div>
+        
     </div>
   )
 }

@@ -1,0 +1,16 @@
+.functions {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    li {
+        width: 87px;
+        height: 64px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #FFFFFF;
+        box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.1);
+        border-radius: 3px 0px 0px 3px;
+        cursor: pointer;
+    }
+}
