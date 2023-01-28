@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Alfa-reapir-app/static/css/main.b22db3a5.css",
+    "main.js": "/Alfa-reapir-app/static/js/main.8b2a246f.js",
+    "static/js/787.21845595.chunk.js": "/Alfa-reapir-app/static/js/787.21845595.chunk.js",
+    "static/media/bg.png": "/Alfa-reapir-app/static/media/bg.3d9c91fe6bde6b69f631.png",
+    "static/media/large-box.png": "/Alfa-reapir-app/static/media/large-box.a09527a84fca2780f0ac.png",
+    "static/media/key.png": "/Alfa-reapir-app/static/media/key.f915be668a5a8b14fcf6.png",
+    "index.html": "/Alfa-reapir-app/index.html",
+    "main.b22db3a5.css.map": "/Alfa-reapir-app/static/css/main.b22db3a5.css.map",
+    "main.8b2a246f.js.map": "/Alfa-reapir-app/static/js/main.8b2a246f.js.map",
+    "787.21845595.chunk.js.map": "/Alfa-reapir-app/static/js/787.21845595.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b22db3a5.css",
+    "static/js/main.8b2a246f.js"
+  ]
+}
